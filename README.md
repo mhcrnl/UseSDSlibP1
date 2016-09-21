@@ -44,7 +44,7 @@ int main()
 ```
 This project is write with: Code::Blocks 13.10 system: Ubuntu 16.10.
 
-Download: git clone:
+Download: ``` git clone https://github.com/mhcrnl/UseSDSlibP1 ```
 
 Run: 
 ```
